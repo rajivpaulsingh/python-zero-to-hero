@@ -20,7 +20,7 @@ class Dog:
 my_dog = Dog(breed='Lab', name='Jacky', spots=True)
 
 # Runnable
-type(my_dog)
-my_dog.species
-my_dog.name
+print(type(my_dog))
+print(my_dog.species)
+print(my_dog.name)
 my_dog.bark()
