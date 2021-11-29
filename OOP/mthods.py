@@ -15,7 +15,7 @@ class Dog:
 
     # OPERATIONS/Actions --> Methods
     def bark(self):
-        print('Woof woof!')
+        print('Woof woof!, my name is {}'.format(self.name))
 
 my_dog = Dog(breed='Lab', name='Jacky', spots=True)
 
