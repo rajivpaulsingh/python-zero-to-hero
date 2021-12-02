@@ -14,7 +14,7 @@ MAIN FRONT END COMPONENTS OF A WEBSITE
 
 """
 LIBRARIES TO USE FOR WEB SCRAPING USING PYTHON (Install them using conda or pip)
-- BeautifulSoap
+- BeautifulSoup
 - Requests
 """
 
